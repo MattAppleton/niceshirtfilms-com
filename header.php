@@ -132,6 +132,13 @@ if ($directors->have_posts()) {
 ?>
         </ul>
       </div>
+      
+      <div class="sidebar-section">
+      	<ul>
+	      <li style="opacity: 0.5">New Talent</li>
+          <li><a href="https://niceshirtfilms.com/director/emilio-gamal-boutros/">Emilio Boutros</a></li>
+        </ul>
+      </div>
 
       <div class="sidebar-section">
         <form role="search" method="get" id="search-form" action="<?php echo home_url( '/' ); ?>">
