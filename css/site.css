@@ -685,6 +685,11 @@ iframe {
 #sidebar-toggle path {
   fill: #cdcbcb;
 }
+
+#sidebar-directors li:last-child {
+	display: none;
+}
+
 #main-content {
   padding-left: 250px;
 }
